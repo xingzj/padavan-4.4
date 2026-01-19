@@ -31,7 +31,7 @@ This project is based on original rt-n56u with latest mtk 4.4.198 kernel, which 
   - MI-R3P
   - R2100
   - XY-C1
-  - 360-T6M
+  - 360-T6M/T6GS
 - Compilation step
   - Install dependencies
     ```sh
